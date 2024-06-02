@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\Week8EpicGame\Week8EpicGame\obj\Debug\net8.0\Week8EpicGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\Week8EpicGame\Week8EpicGame\obj\Debug\net8.0\Week8EpicGame.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\Week8EpicGame\Week8EpicGame\obj\Debug\net8.0\Week8EpicGame.AssemblyInfo.cs
+C:\Users\manni\source\repos\Week8EpicGame\Week8EpicGame\obj\Debug\net8.0\Week8EpicGame.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\Week8EpicGame\Week8EpicGame\bin\Debug\net8.0\Week8EpicGame.exe
+C:\Users\manni\source\repos\Week8EpicGame\Week8EpicGame\bin\Debug\net8.0\Week8EpicGame.deps.json
+C:\Users\manni\source\repos\Week8EpicGame\Week8EpicGame\bin\Debug\net8.0\Week8EpicGame.runtimeconfig.json
+C:\Users\manni\source\repos\Week8EpicGame\Week8EpicGame\bin\Debug\net8.0\Week8EpicGame.dll
+C:\Users\manni\source\repos\Week8EpicGame\Week8EpicGame\bin\Debug\net8.0\Week8EpicGame.pdb
+C:\Users\manni\source\repos\Week8EpicGame\Week8EpicGame\obj\Debug\net8.0\Week8EpicGame.dll
+C:\Users\manni\source\repos\Week8EpicGame\Week8EpicGame\obj\Debug\net8.0\refint\Week8EpicGame.dll
+C:\Users\manni\source\repos\Week8EpicGame\Week8EpicGame\obj\Debug\net8.0\Week8EpicGame.pdb
+C:\Users\manni\source\repos\Week8EpicGame\Week8EpicGame\obj\Debug\net8.0\Week8EpicGame.genruntimeconfig.cache
+C:\Users\manni\source\repos\Week8EpicGame\Week8EpicGame\obj\Debug\net8.0\ref\Week8EpicGame.dll

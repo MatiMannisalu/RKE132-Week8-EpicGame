@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\Week8EpicGame\N8TK4\bin\Debug\net8.0\N8TK4.exe
+C:\Users\manni\source\repos\Week8EpicGame\N8TK4\bin\Debug\net8.0\N8TK4.deps.json
+C:\Users\manni\source\repos\Week8EpicGame\N8TK4\bin\Debug\net8.0\N8TK4.runtimeconfig.json
+C:\Users\manni\source\repos\Week8EpicGame\N8TK4\bin\Debug\net8.0\N8TK4.dll
+C:\Users\manni\source\repos\Week8EpicGame\N8TK4\bin\Debug\net8.0\N8TK4.pdb
+C:\Users\manni\source\repos\Week8EpicGame\N8TK4\obj\Debug\net8.0\N8TK4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\Week8EpicGame\N8TK4\obj\Debug\net8.0\N8TK4.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\Week8EpicGame\N8TK4\obj\Debug\net8.0\N8TK4.AssemblyInfo.cs
+C:\Users\manni\source\repos\Week8EpicGame\N8TK4\obj\Debug\net8.0\N8TK4.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\Week8EpicGame\N8TK4\obj\Debug\net8.0\N8TK4.dll
+C:\Users\manni\source\repos\Week8EpicGame\N8TK4\obj\Debug\net8.0\refint\N8TK4.dll
+C:\Users\manni\source\repos\Week8EpicGame\N8TK4\obj\Debug\net8.0\N8TK4.pdb
+C:\Users\manni\source\repos\Week8EpicGame\N8TK4\obj\Debug\net8.0\N8TK4.genruntimeconfig.cache
+C:\Users\manni\source\repos\Week8EpicGame\N8TK4\obj\Debug\net8.0\ref\N8TK4.dll
